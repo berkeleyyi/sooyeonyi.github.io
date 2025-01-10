@@ -10,7 +10,7 @@ author_profile: true
 ### Upcoming Event:
 * Participating #2 COEQWAL Advisory Cohort Workshop at Davis. [1/24/2025]
 * Launching UC Water Academy seminar series in the spring and invite postdocs, graduate students, and undergraduate students to participate. [1/21/2025]
-
+* Submitting an abstract to EGU 2025. [1/15/2025]
 
 
 ### New publication:
@@ -37,7 +37,6 @@ author_profile: true
 * Participated in the COEQWAL Research Team Meeting in Davis. [10/18-19/2024]
 * Participated in the COEQWAL Advisory Cohort Workshop. [09/13/2024]
 * Participated in the COEQWAL Integration Team Meeting in Davis, CA. [06/21/2024]
-
 
 ### Conference:
 * Attended the American Geophysical Union (AGU) Conference in Washington, D.C. [12/9-13/2024]
